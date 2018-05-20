@@ -1,0 +1,8 @@
+{
+  "name": "PetIt",
+  "app_id": "60e77612",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
